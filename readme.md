@@ -1,6 +1,6 @@
-# Quarto 
+# Quarto | Board Games in Metaverse
 
-![](https://cf.geekdo-images.com/QtekgAPyq4NpjCCVu9vhuQ__imagepage/img/-sMv6mEfgEP2pL3R4TTn-oX-Wdk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1304078.jpg)
+![](./full.png)
 ## [What is Quarto?](https://boardgamegeek.com/boardgame/681/quarto)
 Quarto has a 4×4 board and 16 pieces. Each piece has four dichotomous attributes — color, height, shape, and consistency — so each piece is either black or white, tall or short, square or round, and hollow or solid. The object is to place the fourth piece in a row in which all four pieces have at least one attribute in common. The twist is that your opponent gets to choose the piece you place on the board each turn.
 
